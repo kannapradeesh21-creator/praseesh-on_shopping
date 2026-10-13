@@ -1,0 +1,6 @@
+{
+  "name": "Pradeesh Online Shopping",
+  "description": "Professional AI-powered e-commerce platform with promotional banners, smart search, WhatsApp order integration, deals, shopping cart, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
